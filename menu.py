@@ -10,11 +10,6 @@ def mostrarMenu():
     print ("0- SALIR ")
     
     print()
-    
-def menu3():
-    print("ricardo pepe juanchi")
-    pass
-    
 
 def menuConsultas():
     limpiar()
